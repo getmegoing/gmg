@@ -3,4 +3,4 @@ tar xvf eclipse-java-mars-2-linux-gtk.tar.gz
 cd eclipse/
 chmod +x eclipse
 ./eclipse -repository "https://dist.springsource.com/release/TOOLS/gradle/nightly"
-
+echo "gmg eclipse install...done"
