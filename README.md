@@ -6,7 +6,7 @@ Get going and start developing software fast!
 
 [Download and install VirtualBox](https://virtualbox.org)
 
-Download virtual [ova appliance](TinyCoreDev.ova) --coming soon-- (15.6 MB)
+Download virtual [ova appliance](https://github.com/getmegoing/getmegoing.github.io/raw/master/TinyCoreLinux_GMG.ova) (15.5 MB)
 
 Import appliance into VirtualBox
 
